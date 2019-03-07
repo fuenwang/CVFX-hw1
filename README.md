@@ -25,5 +25,7 @@ loss = self.lambda1*forward_loss + self.lambda2*backward_loss
 ```
 which is the sum of two L1 normalized loss(forward_loss amd backward_loss).
 
+Apart from the `cycle loss`, the `identity loss` is also introduced in the paper. The intuition behind the `identity loss` is to encourage the mapping to preserve color composition between the input and output. 
+
 ##  Qualitative Results
 
