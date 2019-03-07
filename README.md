@@ -28,11 +28,11 @@ which is the sum of two L1 normalized loss(forward_loss amd backward_loss).
 Apart from the `cycle loss`, the `identity loss` is also introduced in the paper. The intuition behind the `identity loss` is to encourage the mapping to preserve color composition between the input and output. 
 
 ##  Qualitative Results
+We use our personal image (e.g., photoed by our iPhones) as inputs.
 | DSLR ← iPhone | iPhone ← DSLR |
 |---------------|---------------|
 |<img src="output/imgs/inference/3.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/6.png" alt="drawing" width="300"/>|
 |<img src="output/imgs/inference/7.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/1.png" alt="drawing" width="300"/>|
 |<img src="output/imgs/inference/8.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/2.png" alt="drawing" width="300"/>|
-|<img src="output/imgs/inference/10.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/4.png" alt="drawing" width="300"/>|
 |<img src="output/imgs/inference/11.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/5.png" alt="drawing" width="300"/>|
 |<img src="output/imgs/inference/12.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/9.png" alt="drawing" width="300"/>|
