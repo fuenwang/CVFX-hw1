@@ -9,8 +9,8 @@ In this assignment, we use the `iphone2dslr_flower` dataset, which is introduced
 class | iPhone | DSLR |
 --- | ---    | ---  |
 DOF | Shallow  | Deep |
-Num. of Examples | 1813   | 3316 |
-Instance | <img src="output/imgs/sample_iphone.png" alt="drawing" width="150"/> | <img src="output/imgs/sample_dslr.png" alt="drawing" width="150"/> |
+examples | 1813   | 3316 |
+instance | <img src="output/imgs/sample_iphone.png" alt="drawing" width="150"/> | <img src="output/imgs/sample_dslr.png" alt="drawing" width="150"/> |
 
 ## About CycleGAN
 In CycleGAN, they introduce two cycle consistency losses that capture the intuition that if
