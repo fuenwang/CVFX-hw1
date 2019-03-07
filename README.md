@@ -39,3 +39,6 @@ We use our personal image (e.g., photoed by our iPhones) as inputs. As the table
 |<img src="output/imgs/inference/10.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/4.png" alt="drawing" width="300"/>|
 |<img src="output/imgs/inference/11.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/5.png" alt="drawing" width="300"/>|
 |<img src="output/imgs/inference/12.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/9.png" alt="drawing" width="300"/>|
+
+##  Comparison with Conventional Method
+We compare our result with [*Color Transfer between Images*](http://www.thegooch.org/Publications/PDFs/ColorTransfer.pdf) [Reinhard et al., 2001]. In the paper, the authors utilize the L*a*b* color space and the mean and std of each L*, a*, and b* channel, respectively, to transfer the color between two images. We use the opencv implementation provided in [here](https://github.com/jrosebr1/color_transfer).
