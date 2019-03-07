@@ -31,8 +31,8 @@ Apart from the `cycle loss`, the `identity loss` is also introduced in the paper
 | DSLR ← iPhone | iPhone ← DSLR |
 |---------------|---------------|
 |<img src="output/imgs/inference/3.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/6.png" alt="drawing" width="300"/>|
-|               |<img src="output/imgs/inference/1.png" alt="drawing" width="300"/>|
-|               |<img src="output/imgs/inference/2.png" alt="drawing" width="300"/>|
-|               |<img src="output/imgs/inference/4.png" alt="drawing" width="300"/>|
-|               |<img src="output/imgs/inference/5.png" alt="drawing" width="300"/>|
-
+|<img src="output/imgs/inference/7.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/1.png" alt="drawing" width="300"/>|
+|<img src="output/imgs/inference/8.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/2.png" alt="drawing" width="300"/>|
+|<img src="output/imgs/inference/10.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/4.png" alt="drawing" width="300"/>|
+|<img src="output/imgs/inference/11.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/5.png" alt="drawing" width="300"/>|
+|<img src="output/imgs/inference/12.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/9.png" alt="drawing" width="300"/>|
