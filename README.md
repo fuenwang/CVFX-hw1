@@ -29,6 +29,7 @@ Apart from the `cycle loss`, the `identity loss` is also introduced in the paper
 
 ##  Qualitative Results
 We use our personal image (e.g., photoed by our iPhones) as inputs.
+
 | DSLR ← iPhone | iPhone ← DSLR |
 |---------------|---------------|
 |<img src="output/imgs/inference/3.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/6.png" alt="drawing" width="300"/>|
