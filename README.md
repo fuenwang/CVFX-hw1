@@ -6,11 +6,11 @@ The goal of this assignment is to train a color/texture transfer model using Cyc
 ## Datasets
 In this assignment, we use the `iphone2dslr_flower` dataset, which is introduced in the CycleGAN paper. `iphone2dslr_flower` contains iPhone and DSLR photos of flowers downloaded from Flickr photos. The main difference between these two classes is the depth of field in the images. Depth of field (DOF) is the distance between the nearest and the furthest objects that are in acceptably sharp focus in an image. We summarize the total number of examples and corresponding DOF type of each class under the below table. 
 
-iPhone | DSLR |
----    | ---  |
-Shallow DOF | Deep DOF |
-1813   | 3316 |
-<img src="output/imgs/sample_iphone.png" alt="drawing" width="150"/> | <img src="output/imgs/sample_dslr.png" alt="drawing" width="150"/> |
+class | iPhone | DSLR |
+--- | ---    | ---  |
+DOF | Shallow  | Deep |
+Num. of Examples | 1813   | 3316 |
+Instance | <img src="output/imgs/sample_iphone.png" alt="drawing" width="150"/> | <img src="output/imgs/sample_dslr.png" alt="drawing" width="150"/> |
 
 ## About CycleGAN
 In CycleGAN, they introduce two cycle consistency losses that capture the intuition that if
@@ -30,6 +30,7 @@ Apart from the `cycle loss`, the `identity loss` is also introduced in the paper
 
 ##  Qualitative Results
 We use our personal image (e.g., photoed by our iPhones) as inputs. As the table shown below, our model can learn to generate photos in the style of both DSLR and iPhone.
+
 | DSLR ← iPhone | iPhone ← DSLR |
 |---------------|---------------|
 |<img src="output/imgs/inference/3.png" alt="drawing" width="300"/>|<img src="output/imgs/inference/6.png" alt="drawing" width="300"/>|
