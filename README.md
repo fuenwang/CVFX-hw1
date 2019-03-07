@@ -52,3 +52,6 @@ We compare our result with [*Color Transfer between Images*](http://www.thegooch
 |<img src="output/imgs/inference/a.jpg" alt="drawing" height="300"/>|<img src="output/imgs/inference/b.jpg" alt="drawing" height="300"/>|<img src="output/imgs/inference/d.jpg" alt="drawing" height="300"/>|
 
 Our CycleGAN model shows significantly better results comparing to color transfer. Unlike color transfer which learns to transfer the style of a single selected piece of art, our CycleGAN model learns to mimic the style of an entire collection of dataset.
+
+##  Appendix: Training Progress Bar
+<img src="output/imgs/inference/bar.png" alt="drawing" height="50"/>
