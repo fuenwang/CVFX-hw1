@@ -9,8 +9,8 @@ In this assignment, we use the `iphone2dslr_flower` dataset, which is introduced
 iPhone | DSLR 
 ---    | ---  
 1813   | 3316 
-![](https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png)|
-![](https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png)
+![](output/imgs/sample_iphone.png)|
+![](output/imgs/sample_dslr.png)
 
 <!--
 # Homework 1 (Color-Transfer and Texture-Transfer)
