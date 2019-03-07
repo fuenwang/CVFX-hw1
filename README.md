@@ -10,7 +10,7 @@ iPhone | DSLR |
 ---    | ---  |
 1813   | 3316 |
 <img src="output/imgs/sample_iphone.png" alt="drawing" width="150"/> |
-<img src="output/imgs/sample_dslr.png" alt="drawing" width="150"/>
+<img src="output/imgs/sample_dslr.png" alt="drawing" width="150"/>  |
 
 <!--
 # Homework 1 (Color-Transfer and Texture-Transfer)
