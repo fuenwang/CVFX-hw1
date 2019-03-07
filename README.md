@@ -6,11 +6,11 @@ The goal of this assignment is to train a color/texture transfer model using Cyc
 ## Datasets
 In this assignment, we use the `iphone2dslr_flower` dataset, which is introduced in the CycleGAN paper. `iphone2dslr_flower` contains iPhone and DSLR photos of flowers downloaded from Flickr photos. We summarize the total number of examples under the below table.
 
-iPhone | DSLR |
----    | ---  |
-1813   | 3316 |
+iPhone | DSLR 
+---    | ---  
+1813   | 3316 
 ![](https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png)|
-![](https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png)|
+![](https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png)
 
 <!--
 # Homework 1 (Color-Transfer and Texture-Transfer)
